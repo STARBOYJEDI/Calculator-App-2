@@ -26,3 +26,9 @@
 - Relevant styling techniques in CSS
 - Error Handling
 
+## Challenges & Future Improvements to consider:
+- Improve Error handling (division by zero)
+- Implementing keyboard shortcurts for more functionality
+
+## Acknowledgements
+- The Odin Project
