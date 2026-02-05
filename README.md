@@ -10,12 +10,19 @@
 - Addition, subtraction, multiplication, and division function/button
 - Responsive layout
 
-### The application can be ran on a web browser by:
+## The application can be ran on a web browser by:
 1. Clone the respository:
    - https://github.com/STARBOYJEDI/Calculator-App-2
 2. Open 'index.html' in your browser
 
-###
+## The application is simple to use and uses the basic functions of a standard calculator.
+- Click the number buttons to enter values
+- Select an operator (+, -, x, ÷)
+- Press '=' to calculate the result
+- Press 'AC' to reset the calculator
 
-
+## What I learned from this personal project.
+- Handling User Input in JavaScript
+- Relevant styling techniques in CSS
+- Error Handling
 
