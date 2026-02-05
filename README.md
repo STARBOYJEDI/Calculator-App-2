@@ -1,6 +1,6 @@
 # Calculator Web Application
 
-## This is an application that works with the basic functions of a calculator based on The Odin Project and Web Dev Simplified
+## This is an application that works with the basic functions of a calculator based on The Odin Project and Web Dev Simplified (youtube profile)
 
 ### This project serves as a "practice run" on learning how to create my own projects and a way to test my web development skills as a self-taught junior web developer.
 ### The application is built with HTML, CSS, and JavaScript.
@@ -21,7 +21,7 @@
 - Press '=' to calculate the result
 - Press 'AC' to reset the calculator
 
-## What I learned from this personal project.
+## What I learned from this project.
 - Handling User Input in JavaScript
 - Relevant styling techniques in CSS
 - Error Handling
